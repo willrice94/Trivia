@@ -4,5 +4,8 @@
     <string name="app_name">Its Your Call</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_category_screen">CategoryScreen</string>
+    <string name="title_activity_question_screen">QuestionScreen</string>
+    <string name="title_activity_results_screen">ResultsScreen</string>
 
 </resources>
